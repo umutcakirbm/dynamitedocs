@@ -1,5 +1,4 @@
-site_name: Dynamite Kullanım Dokümanı
+site_name: Dynamite Documentation
 nav:
-    - Başlangıç:
-          - 'Dynamite Nedir?': 'dynamite-nedir.md'
+    - Getting Started: 'index.md'
 theme: readthedocs
