@@ -5,7 +5,7 @@ Dynamite is a web page design tool for Mobi-fi Service Management Application fo
     Dynamite is the best page design tool for Mobi-fi!
 ---
 
-# 1. Login to System
+# 1. Login to App
 
 - Enter Dynamite web site and go `/login` page.
 - **Username** and **password** is your personal admin username for **Test Environment.**
