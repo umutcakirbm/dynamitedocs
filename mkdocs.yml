@@ -1,4 +1,4 @@
 site_name: Dynamite Documentation
 nav:
-    - Getting Started: 'index.md'
+    - Home: 'index.md'
 theme: readthedocs
