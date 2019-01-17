@@ -1,4 +1,5 @@
-site_name: MkLorum
+site_name: Dynamite Kullanım Dokümanı
 nav:
-    - Home: index.md
+    - Başlangıç:
+          - 'Dynamite Nedir?': 'dynamite-nedir.md'
 theme: readthedocs
