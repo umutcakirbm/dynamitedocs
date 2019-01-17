@@ -17,7 +17,7 @@ Dynamite is a web page design tool for Mobi-fi Service Management Application fo
 
 # 2. Welcome Screen
 
-## After login...
+## 2.1 After login...
 
     After login, you will see 'Settings and services are loading...' text.
     This is for loading of Mobi-fi API Endpoint list.
@@ -25,7 +25,7 @@ Dynamite is a web page design tool for Mobi-fi Service Management Application fo
     
 ![Service Loading Screen](img/services-loading.gif)
 
-## We are ready, and you?
+## 2.2 We are ready, and you?
 - We have page list on left sidebar,
 - Platform, project, auth object dropdowns on top right panel,
 - and welcome message :)
