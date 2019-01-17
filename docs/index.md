@@ -1,6 +1,6 @@
-# What is the Dynamite?
+# Introduction
 
-Dynamite is a web page design tool for Mobi-fi Service Management Application for now. You can design new or existing pages in Dynamite using awesome components.
+Dynamite is a web page design tool for Mobi-fi Service Management Application for now. You can design new or existing pages in Dynamite by using awesome components.
 
     Dynamite is the best page design tool for Mobi-fi!
 ---
