@@ -1,4 +1,5 @@
 site_name: Dynamite Documentation
 pages:
-    - 'Home': 'index.md'
+    - 'HOME': 'index.md'
+    - 'GETTING STARTED': 'getting-started.md'
 theme: readthedocs

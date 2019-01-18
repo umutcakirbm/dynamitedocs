@@ -5,51 +5,28 @@ Dynamite is a web page design tool for Mobi-fi Service Management Application fo
     Dynamite is the best page design tool for Mobi-fi!
 ---
 
-# 1. Login to App
-
-- Enter Dynamite web site and go `/login` page.
-- **Username** and **password** is your personal admin username for **Test Environment.**
-- Enter your credentials and click login button.
-
-![Login Screen](img/login.gif)
-
+Dynamite's page design tool consists of
+- components and their settings which are
+    - general settings,
+    - language settings,
+    - get data settings,
+    - value settings,
+    - validation settings,
+    - auth settings,
+    - event settings,
+    - style settings,
+    - special settings
+- general styles and scripts,
+- controller functions,
+- data sources
 ---
 
-# 2. Welcome Screen
+# Components
+Components are everything for Dynamite and its client applications.
 
-## 2.1 After login...
+- Client applications render components which are generated **Angular Components** that can be used for user interaction.
+- There are two component types in Dynamite. These are **contents** and **items**.
 
-    After login, you will see 'Settings and services are loading...' text.
-    This is for loading of Mobi-fi API Endpoint list.
-    [Only for login to app] :)
-    
-![Service Loading Screen](img/services-loading.gif)
+## Contents
+Contents are the first type of components which are main type to design a page.
 
-## 2.2 We are ready, and you?
-- We have page list on left sidebar,
-- Platform, project, auth object dropdowns on top right panel,
-- and **welcome** message :)
-
-![Welcome Screen](img/welcome-screen.png)
-
----
-
-# 3. How to save a page design to database?
-
-- Mobi-fi saves page designs to database with platform id and auth object id which belongs to selected project.
-- Page designs are created as **JSON** data with component properties.
-- They also includes style, script settings, controller functions and data sources for using components.
-- And client applications which have abilities to render this JSON data render and show them.
----
-# 4. Side and Top Panel
-You can use panel described below.
-
-## 4.1 Selecting a page to design
-Page can be selected from left side panel.
-
-![Select page](img/page-selecting.gif)
-
-## 4.2 Configuring the platform and auth object
-This configuration can be made from top right panel.
-
-![Auth Object select](img/auth-object-selecting.gif)
