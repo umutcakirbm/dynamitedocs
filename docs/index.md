@@ -7,15 +7,15 @@ Dynamite is a web page design tool for Mobi-fi Service Management Application fo
 
 Dynamite's page design tool consists of
 - components and their settings which are
-    * general settings,
-    * language settings,
-    * get data settings,
-    * value settings,
-    * validation settings,
-    * auth settings,
-    * event settings,
-    * style settings,
-    * special settings
+  * general settings,
+  * language settings,
+  * get data settings,
+  * value settings,
+  * validation settings,
+  * auth settings,
+  * event settings,
+  * style settings,
+  * special settings
 - general styles and scripts,
 - controller functions,
 - data sources
