@@ -28,6 +28,28 @@ Dynamite is a web page design tool for Mobi-fi Service Management Application fo
 ## 2.2 We are ready, and you?
 - We have page list on left sidebar,
 - Platform, project, auth object dropdowns on top right panel,
-- and welcome message :)
+- and **welcome** message :)
 
 ![Welcome Screen](img/welcome-screen.png)
+
+---
+
+# 3. How to save a page design to database?
+
+- Mobi-fi saves page designs to database with platform id and auth object id which belongs to selected project.
+- Page designs are created as **JSON** data with component properties.
+- They also includes style, script settings, controller functions and data sources for using components.
+- And client applications which have abilities to render this JSON data render and show them.
+---
+# 4. Side and Top Panel
+You can use panel described below.
+
+## 4.1 Selecting a page to design
+Page can be selected from left side panel.
+
+![Select page](img/page-selecting.gif)
+
+## 4.2 Configuring the platform and auth object
+This configuration can be made from top right panel.
+
+![Auth Object select](img/auth-object-selecting.gif)
