@@ -28,7 +28,16 @@ Components are everything for Dynamite and its client applications.
 
 - Client applications render components which are generated **Angular Components** that can be used for user interaction.
 - There are two component types in Dynamite. These are **contents** and **items**.
+- Contents are main components which can be used directly in a page without an item. (e.g.: Forms)
+- Items are helper components which can be used by content components to improve user interaction. (e.g.: Textbox in the form)
 
 ## Contents
 Contents are the first type of components which are main type to design a page.
+
+![Content List](img/content-list.gif)
+
+## Items
+Items are helper components for content components.
+
+![Item List](img/item-list.gif)
 
