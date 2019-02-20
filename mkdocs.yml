@@ -1,5 +1,7 @@
 site_name: Dynamite Documentation
 nav:
-    - 'HOME': 'index.md'
-    - 'GETTING STARTED': 'getting-started.md'
+    - 'Home': 'index.md'
+    - 'Getting Started': 'getting-started.md'
+    - 'API Reference': 'api-reference.md'
+    - 'F.A.Q': 'faq.md'
 theme: readthedocs

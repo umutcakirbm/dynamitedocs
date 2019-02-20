@@ -30,6 +30,8 @@ Dynamite Components are made up of HTML, CSS and JS. In this HTML DOM tree, some
 ### Global Dynamic Variables
 Dynamite components can be accessed from console with their unique names. These are called as global dynamic variables. For their access methods, you can look their sections.
 
+> _**And there are some system variables starts with `_`(underscore) symbol. You can look them from system variables section.**_
+
 ### Parameters
 In Dynamite, for getting and posting data, triggering events we use parameters. There are two parameter types. Global and static params...
 
