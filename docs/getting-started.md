@@ -1,4 +1,4 @@
-# Getting Started
+# 2. Getting Started
 In this section, you can learn how to start designing.
 
 # 1. Login to App
